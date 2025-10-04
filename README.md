@@ -1,5 +1,5 @@
-# AIagentImplementation
-Implementing a simple AI agent with gemini api
+# AI Agent Implementation
+## Implementing a simple AI agent with gemini api
 If you've ever used Cursor or Claude Code as an "agentic" AI editor, you'll understand what we're building in this project.
 
 We're building a toy version of Claude Code using Google's free Gemini API! As long as you have an LLM at your disposal, its actually surprisingly simple to build a (somewhat) effective custom agent.
